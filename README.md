@@ -1,7 +1,7 @@
-Recommendation Project based on Ratings of Products
+## Recommendation Project based on Ratings of Products
 This notebook is about recommendation of products, which can be used for giving recommendation for a customer. The data is from an given dataset accessed through Skillfull.
 
-Background
+# Background
 A recommendation project is a recommendation that give top product for every customer which allows to be considered for buying. A recommendation of every customer have an important role to describe product ratings, a potential bought that usually characterized by ratings. It becomes important to know the best product to be recommended in order to make sure your fundings are both effective and appropriate (non-offensive, timely, and relevant). A recommendation product is using a historical data technique. Based on customers' historical payments, recommendation system focuses on 3 main aspects of customers' historical payments reports that are
 1. Customer id
 2. Product id 
